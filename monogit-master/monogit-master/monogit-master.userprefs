@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Controller.cs">
+    <Files>
+      <File FileName="Assets\SpawnScript.cs" Line="18" Column="56" />
+      <File FileName="Assets\ProtoManager.cs" Line="46" Column="1" />
+      <File FileName="Assets\MonoController.cs" Line="66" Column="9" />
+      <File FileName="Assets\Controller.cs" Line="36" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
